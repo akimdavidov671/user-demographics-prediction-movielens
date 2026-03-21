@@ -18,8 +18,6 @@ This project uses the MovieLens 1M dataset, which contains approximately 1 milli
 The dataset is publicly available and can be downloaded from:
 https://grouplens.org/datasets/movielens/1m/
 
-Due to licensing and size considerations, the dataset is not included in this repository.
-
 ### Data Exploration
 
 Basic exploration of the dataset reveals several important characteristics that influence model performance.
